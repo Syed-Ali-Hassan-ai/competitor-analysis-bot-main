@@ -1,0 +1,7 @@
+{
+    "dependencies": ["."],
+    "graphs": {
+        "agent": "C:/Users/Syed Ali Hassan/Desktop/competitor-analysis-bot-main/competitor_analysis_bot/graph.py::graph"
+    },
+    "env": ".env"
+}
